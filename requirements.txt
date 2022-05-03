@@ -1,0 +1,4 @@
+requests ==2.27.1
+zipfile ==3.10.4
+random ==3.10.4
+Config
